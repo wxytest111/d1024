@@ -1,0 +1,7 @@
+server.log
+target**
+.idea**
+*.iml
+bin
+cobertura.ser
+out
